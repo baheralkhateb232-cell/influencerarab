@@ -1,29 +1,45 @@
 # منصة المشاهير والمؤثرين العرب
 
-نسخة مطوّرة بتصميم فاخر لموقع منصة مؤثرين عربية، جاهزة للنشر كصفحة ثابتة على GitHub Pages.
+نسخة مطوّرة بتصميم فاخر لمنصة عربية متخصصة بالتسويق عبر المؤثرين، الحملات الرقمية، وربط العلامات التجارية بالمؤثرين في الخليج ومصر.
 
-## الملفات المعدلة
+## الملفات الأساسية
 
-- `index.html`: صفحة رئيسية حديثة RTL مع SEO وOpen Graph وSchema.
-- `css/styles.css`: هوية بصرية فاخرة بالأسود والذهبي وتصميم Responsive كامل.
-- `js/custom.js`: JavaScript حديث بدون jQuery للقائمة، الحركة، والتمرير.
-- `robots.txt`: ملف توجيه لمحركات البحث.
-- `sitemap.xml`: خريطة موقع أولية.
-- `404.html`: صفحة خطأ مناسبة للنشر على GitHub Pages.
+- `index.html`  
+  صفحة رئيسية حديثة RTL مع SEO وOpen Graph وSchema.
 
-## مهم قبل النشر
+- `css/styles.css`  
+  تصميم فاخر Responsive بالأسود والذهبي.
 
-1. استبدل `https://example.com/` بدومين موقعك الحقيقي داخل:
-   - `index.html`
-   - `robots.txt`
-   - `sitemap.xml`
+- `js/custom.js`  
+  JavaScript حديث بدون jQuery للقائمة والحركة والتمرير.
 
-2. استبدل رابط نموذج التواصل:
-   ```html
-   https://formspree.io/f/your-form-id
-   ```
-   برابط Formspree أو API الخاص بك.
+- `robots.txt`  
+  إعدادات محركات البحث.
 
-3. حدّث روابط السوشال ميديا في الفوتر بدل `#`.
+- `sitemap.xml`  
+  خريطة الموقع لمحركات البحث.
 
-4. ارفع الملفات إلى GitHub Pages أو أي استضافة ثابتة.
+- `404.html`  
+  صفحة خطأ مخصصة لـ GitHub Pages.
+
+## النشر
+
+الموقع منشور عبر GitHub Pages على:
+
+https://influencer-platform.vip/
+
+## نموذج التواصل
+
+يتم إرسال الطلبات مباشرة إلى:
+
+vivamediacreative@gmail.com
+
+باستخدام FormSubmit:
+
+https://formsubmit.co/
+
+## ملاحظات
+
+- التصميم والمحتوى مرتبطان بـ Viva Media Creative.
+- الموقع مخصص لدعم SEO وجذب العملاء المهتمين بحملات المؤثرين والتسويق الرقمي.
+- جميع الحقوق محفوظة © 2026 Viva Media Creative
