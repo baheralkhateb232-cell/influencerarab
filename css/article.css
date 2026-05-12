@@ -647,3 +647,15 @@
   }
 
 }
+@media (max-width: 640px) {
+
+  .article-page .article-content img {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    max-height: 230px;
+    object-fit: cover;
+    border-radius: 20px;
+    margin: 28px 0;
+  }
+
+}
