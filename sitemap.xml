@@ -55,4 +55,24 @@
   <changefreq>monthly</changefreq>
   <priority>0.92</priority>
 </url>
+  <url>
+  <loc>https://influencer-platform.vip/privacy-policy/</loc>
+  <lastmod>2026-05-13</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.30</priority>
+</url>
+
+<url>
+  <loc>https://influencer-platform.vip/terms/</loc>
+  <lastmod>2026-05-13</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.30</priority>
+</url>
+
+<url>
+  <loc>https://influencer-platform.vip/legal-notice/</loc>
+  <lastmod>2026-05-13</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.30</priority>
+</url>
  </urlset>
