@@ -133,3 +133,26 @@ a{color:inherit;text-decoration:none;transition:.25s ease}img{max-width:100%;dis
     font-size: 24px;
   }
 }
+
+.category-card{
+  position:relative;
+}
+
+.category-card::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(
+    to bottom,
+    rgba(0,0,0,.55),
+    rgba(0,0,0,.15),
+    rgba(0,0,0,.65)
+  );
+  z-index:1;
+}
+
+.category-card h3,
+.category-card p{
+  position:relative;
+  z-index:2;
+}
