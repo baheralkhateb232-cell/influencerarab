@@ -659,3 +659,201 @@
   }
 
 }
+/* =========================================
+   CASE STUDIES SYSTEM
+========================================= */
+
+.article-page .case-studies-section {
+  margin: 60px 0;
+  padding: clamp(24px, 4vw, 38px);
+  border-radius: 32px;
+
+  background:
+    radial-gradient(circle at top right,
+    rgba(201,164,92,.16),
+    transparent 36%),
+
+    linear-gradient(
+      180deg,
+      rgba(255,255,255,.055),
+      rgba(255,255,255,.025)
+    );
+
+  border: 1px solid rgba(201,164,92,.22);
+
+  box-shadow: 0 24px 70px rgba(0,0,0,.32);
+}
+
+.article-page .case-header {
+  margin-bottom: 30px;
+}
+
+.article-page .case-kicker {
+  display: inline-block;
+  margin-bottom: 12px;
+  color: var(--article-gold-light);
+  font-weight: 900;
+  font-size: 14px;
+}
+
+.article-page .market-proof-grid {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 18px;
+  margin: 30px 0 36px;
+}
+
+.article-page .proof-card {
+  padding: 24px;
+  border-radius: 24px;
+  background: #0b0b0c;
+  border: 1px solid rgba(201,164,92,.18);
+}
+
+.article-page .proof-card strong {
+  display: block;
+  font-size: 32px;
+  color: var(--article-gold-light);
+  margin-bottom: 8px;
+}
+
+.article-page .proof-card span {
+  color: var(--article-muted);
+  line-height: 1.8;
+  font-size: 14px;
+}
+
+.article-page .case-study-card {
+  margin: 26px 0;
+  padding: clamp(22px,4vw,32px);
+  border-radius: 28px;
+
+  background: rgba(5,5,5,.42);
+
+  border: 1px solid rgba(201,164,92,.18);
+}
+
+.article-page .case-label {
+  display: inline-block;
+  padding: 8px 15px;
+  border-radius: 999px;
+
+  background: rgba(201,164,92,.14);
+
+  color: var(--article-gold-light);
+
+  font-size: 13px;
+  font-weight: 900;
+  margin-bottom: 14px;
+}
+
+.article-page .case-study-card h3 {
+  margin: 0 0 14px;
+  color: var(--article-gold-light);
+}
+
+.article-page .case-results {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 14px;
+  margin: 26px 0;
+}
+
+.article-page .case-results div {
+  padding: 20px 14px;
+  border-radius: 22px;
+
+  background: rgba(201,164,92,.09);
+
+  border: 1px solid rgba(201,164,92,.14);
+
+  text-align: center;
+}
+
+.article-page .case-results strong {
+  display: block;
+  font-size: 30px;
+  color: var(--article-ivory);
+  margin-bottom: 6px;
+}
+
+.article-page .case-results span {
+  font-size: 13px;
+  color: var(--article-muted);
+  line-height: 1.7;
+}
+
+.article-page .case-insight {
+  padding: 22px;
+  border-radius: 22px;
+
+  background: rgba(201,164,92,.10);
+
+  border-right: 4px solid var(--article-gold);
+}
+
+.article-page .case-insight strong {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.article-page .case-insight p {
+  margin: 0;
+}
+
+.article-page .case-warning,
+.article-page .case-disclaimer {
+  margin-top: 26px;
+
+  padding: 20px 22px;
+
+  border-radius: 22px;
+
+  background: rgba(242,210,122,.10);
+
+  color: #eadfcb;
+
+  line-height: 2;
+
+  border: 1px solid rgba(242,210,122,.20);
+
+  font-size: 15px;
+}
+
+.article-page .section-intro {
+  padding: 22px 26px;
+  border-radius: 22px;
+
+  background: rgba(201,164,92,.08);
+
+  border: 1px solid rgba(201,164,92,.18);
+}
+
+/* MOBILE */
+
+@media (max-width: 900px) {
+
+  .article-page .market-proof-grid,
+  .article-page .case-results {
+    grid-template-columns: 1fr 1fr;
+  }
+
+}
+
+@media (max-width: 560px) {
+
+  .article-page .market-proof-grid,
+  .article-page .case-results {
+    grid-template-columns: 1fr;
+  }
+
+  .article-page .case-studies-section {
+    border-radius: 24px;
+  }
+
+  .article-page .proof-card strong,
+  .article-page .case-results strong {
+    font-size: 26px;
+  }
+
+}
