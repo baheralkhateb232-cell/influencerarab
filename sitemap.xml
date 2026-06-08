@@ -121,7 +121,12 @@
   <changefreq>yearly</changefreq>
   <priority>0.30</priority>
 </url>
-
+<url>
+  <loc>https://influencer-platform.vip/blog/%D9%83%D9%8A%D9%81-%D8%A3%D8%AC%D8%AF-%D8%A7%D9%84%D9%85%D8%A4%D8%AB%D8%B1%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A5%D9%86%D8%B3%D8%AA%D8%BA%D8%B1%D8%A7%D9%85/</loc>
+  <lastmod>2026-06-08</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.95</priority>
+</url>
 <url>
   <loc>https://influencer-platform.vip/legal-notice/</loc>
   <lastmod>2026-05-13</lastmod>
