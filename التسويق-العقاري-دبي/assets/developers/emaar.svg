@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="180" viewBox="0 0 520 180" role="img" aria-labelledby="t d">
+  <title id="t">EMAAR</title>
+  <desc id="d">Decorative wordmark label for EMAAR.</desc>
+  <rect width="520" height="180" rx="28" fill="#0c0c0e"/>
+  <rect x="1" y="1" width="518" height="178" rx="27" fill="none" stroke="#caa45d" stroke-opacity=".32"/>
+  <g transform="translate(34 36)">
+    <path d="M0 50 L34 16 L68 50 L34 84 Z" fill="none" stroke="#caa45d" stroke-width="4"/>
+    <path d="M18 50 L34 34 L50 50 L34 66 Z" fill="#caa45d" fill-opacity=".95"/>
+  </g>
+  <text x="130" y="92" fill="#f5f1e8" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700" letter-spacing="4">EMAAR</text>
+  <text x="132" y="126" fill="#caa45d" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="7">PROPERTIES</text>
+</svg>
