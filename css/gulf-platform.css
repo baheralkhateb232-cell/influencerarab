@@ -94,3 +94,109 @@ body.gcc-page{background:#050505}
 @media(prefers-reduced-motion:reduce){.gcc-cap,.gcc-resource,.gcc-market a i{transition:none!important}}
 
 .gcc-inline-symbol{display:inline-grid;place-items:center;width:23px;height:23px;border-radius:8px;background:rgba(14,143,115,.13);border:1px solid rgba(14,143,115,.28);color:#93ddc6;font-weight:900;flex:0 0 auto}.gcc-mini-mark{color:var(--gcc-gold-2);font-size:10px;filter:drop-shadow(0 0 8px rgba(215,184,103,.45))}.gcc-industry-icon{display:inline-grid;place-items:center;min-width:40px;height:28px;padding:0 8px;border-radius:9px;background:rgba(215,184,103,.10);border:1px solid rgba(215,184,103,.18);color:var(--gcc-gold-2);font-size:10px;font-weight:900;letter-spacing:.05em;margin-bottom:12px}.gcc-industry .gcc-industry-icon{margin-bottom:12px}.gcc-page .topHome{font-family:Arial,sans-serif;font-weight:900;font-size:19px}
+
+/* Floating WhatsApp CTA */
+.dxb-whatsapp-bar{
+  position:fixed;
+  left:22px;
+  bottom:22px;
+  z-index:999;
+  display:flex;
+  align-items:center;
+  gap:11px;
+  width:max-content;
+  max-width:calc(100vw - 44px);
+  padding:10px 14px 10px 11px;
+  border:1px solid rgba(255,255,255,.13);
+  border-radius:16px;
+  background:rgba(8,9,10,.92);
+  color:#fff;
+  text-decoration:none;
+  box-shadow:
+    0 12px 35px rgba(0,0,0,.28),
+    inset 0 1px 0 rgba(255,255,255,.05);
+  backdrop-filter:blur(14px);
+  -webkit-backdrop-filter:blur(14px);
+  transition:
+    transform .22s ease,
+    border-color .22s ease,
+    background .22s ease;
+}
+
+.dxb-whatsapp-bar:hover{
+  transform:translateY(-3px);
+  border-color:rgba(37,211,102,.55);
+  background:rgba(10,16,12,.97);
+  color:#fff;
+}
+
+.dxb-whatsapp-icon{
+  flex:0 0 38px;
+  width:38px;
+  height:38px;
+  display:grid;
+  place-items:center;
+  border-radius:12px;
+  background:#25D366;
+  color:#fff;
+  box-shadow:0 7px 20px rgba(37,211,102,.24);
+}
+
+.dxb-whatsapp-copy{
+  display:flex;
+  flex-direction:column;
+  line-height:1.25;
+  white-space:nowrap;
+}
+
+.dxb-whatsapp-copy small{
+  margin-bottom:3px;
+  font-size:10px;
+  font-weight:600;
+  color:rgba(255,255,255,.58);
+}
+
+.dxb-whatsapp-copy strong{
+  font-size:13px;
+  font-weight:800;
+  color:#fff;
+}
+
+.dxb-whatsapp-arrow{
+  margin-right:3px;
+  font-size:17px;
+  color:#25D366;
+  transition:transform .22s ease;
+}
+
+.dxb-whatsapp-bar:hover .dxb-whatsapp-arrow{
+  transform:translateX(-3px);
+}
+
+@media (max-width:640px){
+  .dxb-whatsapp-bar{
+    left:12px;
+    bottom:12px;
+    padding:8px 11px 8px 8px;
+    border-radius:14px;
+  }
+
+  .dxb-whatsapp-icon{
+    width:34px;
+    height:34px;
+    flex-basis:34px;
+    border-radius:10px;
+  }
+
+  .dxb-whatsapp-copy small{
+    display:none;
+  }
+
+  .dxb-whatsapp-copy strong{
+    font-size:12px;
+  }
+
+  .dxb-whatsapp-arrow{
+    font-size:15px;
+  }
+}
