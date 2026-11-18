@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="890" viewBox="0 0 1000 890" role="img" aria-labelledby="ht hd">
+<title id="ht">لوحة مرئية لتحليل المشاهدات والوصول والتفاعل</title><desc id="hd">لوحة فاخرة بأشكال هندسية ذهبية تعرض الرسوم البيانية ونسب تفاعل توضيحية دون ادعاء أنها أرقام حقيقية</desc>
+<defs>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fae4ad"/><stop offset=".48" stop-color="#c6a064"/><stop offset="1" stop-color="#9d7444"/></linearGradient>
+<linearGradient id="pane" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#24231f"/><stop offset="1" stop-color="#141412"/></linearGradient>
+<linearGradient id="bar" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#f4d28f"/><stop offset="1" stop-color="#906a3f"/></linearGradient>
+<radialGradient id="orb"><stop stop-color="#d3a765" stop-opacity=".27"/><stop offset="1" stop-color="#e6bd7c" stop-opacity="0"/></radialGradient>
+<filter id="shadow"><feDropShadow dx="0" dy="20" stdDeviation="25" flood-opacity=".55" /></filter>
+<filter id="glow"><feGaussianBlur stdDeviation="29"/></filter>
+<pattern id="grain" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="4" cy="6" r="1" fill="#e7c88e" opacity=".18"/><circle cx="23" cy="18" r=".6" fill="#fff" opacity=".14"/></pattern>
+</defs>
+<rect width="1000" height="890" fill="#0b0b0d" opacity="0"/>
+<circle cx="510" cy="430" r="430" fill="url(#orb)"/><ellipse cx="430" cy="410" rx="320" ry="290" fill="#cda363" opacity=".10" filter="url(#glow)"/>
+<circle cx="530" cy="410" r="356" fill="none" stroke="#d0a76c" stroke-opacity=".17" stroke-width="1" stroke-dasharray="3 13"/>
+<circle cx="530" cy="410" r="285" fill="none" stroke="#d0a76c" stroke-opacity=".13" stroke-width="1"/>
+<g transform="translate(76 116) rotate(-7 390 310)" filter="url(#shadow)">
+<rect x="58" y="69" width="720" height="585" rx="34" fill="url(#pane)" stroke="#aa8859" stroke-opacity=".9" stroke-width="2" />
+<rect x="58" y="69" width="720" height="80" rx="34" fill="#24211d"/>
+<path d="M58 128 H778" stroke="#8d744f" opacity=".45"/>
+<circle cx="106" cy="108" r="8" fill="#c29b5c"/><circle cx="132" cy="108" r="8" fill="#6c675d"/><circle cx="158" cy="108" r="8" fill="#4f4d48"/>
+<text x="741" y="119" fill="#f2d9a2" font-family="Arial,sans-serif" font-size="18" font-weight="bold" text-anchor="end" letter-spacing="2">INSIGHTS / 2026</text>
+<text x="105" y="210" fill="#ad9b84" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">CONTENT ANALYTICS</text>
+<text x="104" y="258" fill="#fbebcc" font-family="Arial,sans-serif" font-size="42" font-weight="bold">VIEW ≠ PERSON</text>
+<rect x="103" y="292" width="630" height="2" fill="#78664b" opacity=".6"/>
+<g>
+<rect x="102" y="333" width="177" height="125" rx="16" fill="#2e2922" stroke="#a88b62" stroke-opacity=".4" />
+<rect x="298" y="333" width="177" height="125" rx="16" fill="#2e2922" stroke="#a88b62" stroke-opacity=".4" />
+<rect x="494" y="333" width="237" height="125" rx="16" fill="#2e2922" stroke="#a88b62" stroke-opacity=".4" />
+<text x="124" y="373" fill="#d5c2a4" font-family="Arial,sans-serif" font-size="15">VIEWS</text>
+<text x="124" y="428" fill="url(#gold)" font-family="Arial,sans-serif" font-size="41" font-weight="bold">100K</text>
+<text x="320" y="373" fill="#d5c2a4" font-family="Arial,sans-serif" font-size="15">REACH</text>
+<text x="320" y="428" fill="#faf0d6" font-family="Arial,sans-serif" font-size="41" font-weight="bold">64K</text>
+<text x="517" y="373" fill="#d5c2a4" font-family="Arial,sans-serif" font-size="15">ENGAGEMENT</text>
+<text x="517" y="428" fill="#e8bb77" font-family="Arial,sans-serif" font-size="41" font-weight="bold">4.8%</text>
+</g>
+<g transform="translate(95 490)">
+<text x="12" y="4" fill="#a99e8b" font-size="13" font-family="Arial" letter-spacing="2">ILLUSTRATIVE PERFORMANCE</text>
+<path d="M11 95 H622" stroke="#a08862" opacity=".45"/>
+<g fill="url(#bar)"><rect x="38" y="57" width="39" height="38" rx="6"/><rect x="117" y="38" width="39" height="57" rx="6"/><rect x="196" y="48" width="39" height="47" rx="6"/><rect x="275" y="12" width="39" height="83" rx="6"/><rect x="354" y="26" width="39" height="69" rx="6"/><rect x="433" y="2" width="39" height="93" rx="6"/><rect x="512" y="20" width="39" height="75" rx="6"/><rect x="591" y="-5" width="31" height="100" rx="6"/></g>
+</g>
+</g>
+<g transform="translate(10 510) rotate(9 154 120)" filter="url(#shadow)">
+<rect x="0" y="0" width="290" height="238" rx="23" fill="#efe4ce" stroke="#c1a678" stroke-width="2" />
+<text x="24" y="43" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#726049" letter-spacing="1">UNIQUE AUDIENCE</text>
+<circle cx="144" cy="131" r="60" fill="none" stroke="#d7c8b0" stroke-width="23"/>
+<circle cx="144" cy="131" r="60" fill="none" stroke="#b28b50" stroke-width="23" stroke-dasharray="249 377" stroke-linecap="round" transform="rotate(-90 144 131)"/>
+<text x="144" y="140" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="bold" fill="#2d2418">64%</text>
+<text x="144" y="211" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#796850">OF EXAMPLE VIEWS</text>
+</g>
+<g transform="translate(733 70) rotate(12 110 83)" filter="url(#shadow)">
+<rect width="205" height="171" rx="21" fill="#ede1ca" stroke="#b58f5b" stroke-width="2"/>
+<path d="M24 116 L63 87 L103 101 L148 45 L178 63" fill="none" stroke="#967242" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="148" cy="45" r="10" fill="#d7a86a"/>
+<text x="25" y="36" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#7d6547">WATCH TIME</text>
+<text x="24" y="153" font-family="Arial,sans-serif" font-size="11" fill="#7d6a54">RETENTION IS CONTEXT</text>
+</g>
+<g transform="translate(762 668) rotate(-7 95 58)">
+<rect width="192" height="111" rx="14" fill="#25211c" stroke="#c4a36d" opacity=".95" />
+<text x="23" y="38" font-family="Arial,sans-serif" font-size="13" fill="#d5b982">QUALITY OF ATTENTION</text>
+<rect x="24" y="57" width="140" height="11" rx="5" fill="#5d5245"/><rect x="24" y="57" width="101" height="11" rx="5" fill="#dfb777"/>
+<text x="23" y="89" font-family="Arial,sans-serif" font-size="13" fill="#f0e2c7">NOT ONE NUMBER</text>
+</g>
+<rect width="1000" height="890" fill="url(#grain)" opacity=".25"/>
+</svg>
