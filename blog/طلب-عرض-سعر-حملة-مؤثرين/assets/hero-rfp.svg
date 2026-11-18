@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1100" height="1030" viewBox="0 0 1100 1030" role="img" aria-labelledby="title desc">
+<title id="title">Premium visual of three influencer campaign agency proposals</title>
+<desc id="desc">Original dark bronze and gold editorial illustration with proposal dossier, comparison cards, analytics graph, and a fountain pen.</desc>
+<defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF0B8"/><stop offset=".18" stop-color="#F4D48C"/><stop offset=".58" stop-color="#BC8C45"/><stop offset=".78" stop-color="#F4CD7C"/><stop offset="1" stop-color="#725333"/></linearGradient>
+ <linearGradient id="goldLine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#69502c"/><stop offset=".46" stop-color="#f1cc80"/><stop offset="1" stop-color="#523d25"/></linearGradient>
+ <linearGradient id="slate" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#333439"/><stop offset=".22" stop-color="#1f2025"/><stop offset="1" stop-color="#07090e"/></linearGradient>
+ <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38383b"/><stop offset=".55" stop-color="#191a20"/><stop offset="1" stop-color="#0c0e12"/></linearGradient>
+ <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2e2b29"/><stop offset="1" stop-color="#101317"/></linearGradient>
+ <linearGradient id="pen" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#54412b"/><stop offset=".13" stop-color="#e6c07a"/><stop offset=".38" stop-color="#3b352d"/><stop offset=".6" stop-color="#dfb971"/><stop offset="1" stop-color="#251a11"/></linearGradient>
+ <radialGradient id="aura" cx="50%" cy="50%" r="50%"><stop stop-color="#d6ad5e" stop-opacity=".19"/><stop offset="1" stop-color="#b18b54" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="38" height="38" patternUnits="userSpaceOnUse"><circle cx="1.2" cy="1.2" r="1" fill="#d2b178" opacity=".24"/></pattern>
+ <filter id="shadow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="25"/></filter>
+ <filter id="drop" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="22" stdDeviation="23" flood-color="#000" flood-opacity=".63"/></filter>
+ <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="8"/></filter>
+ <clipPath id="clipChart"><rect x="0" y="0" width="394" height="102" rx="0"/></clipPath>
+</defs>
+
+<circle cx="546" cy="507" r="498" fill="url(#aura)"/>
+<circle cx="543" cy="491" r="414" fill="none" stroke="#a28250" stroke-opacity=".13" stroke-width="2"/>
+<circle cx="543" cy="491" r="338" fill="none" stroke="#a28250" stroke-opacity=".11"/>
+<circle cx="543" cy="491" r="264" fill="none" stroke="#a28250" stroke-opacity=".08"/>
+<path d="M20 370H1060 M20 622H1060 M386 5V1010 M744 5V1010" stroke="#e1bd7a" stroke-width="1" stroke-opacity=".075"/>
+<rect x="0" y="50" width="1050" height="880" fill="url(#dots)" opacity=".3"/>
+<path d="M105 185c140-88 294-120 454-95 145 23 279 108 358 241" stroke="#d8ad64" stroke-opacity=".3" fill="none" stroke-dasharray="4 15" stroke-width="2"/>
+<path d="M850 753c-146 98-338 164-539 83" stroke="#d8ad64" stroke-opacity=".25" fill="none" stroke-dasharray="4 15" stroke-width="2"/>
+
+<!-- lower ambient desk shadow -->
+<ellipse cx="556" cy="848" rx="450" ry="89" fill="#000" opacity=".6" filter="url(#shadow)"/>
+<path d="M90 828 L826 959" stroke="#ad8248" stroke-opacity=".16" stroke-width="4"/>
+
+<!-- main metallic leather dossier -->
+<g transform="rotate(-6 526 489)" filter="url(#drop)">
+ <rect x="191" y="127" width="705" height="746" rx="31" fill="url(#slate)" stroke="#a88b58" stroke-opacity=".65" stroke-width="2.5"/>
+ <rect x="204" y="140" width="678" height="719" rx="25" fill="none" stroke="#f1d38e" stroke-opacity=".22" stroke-width="1.2"/>
+ <path d="M193 203H897" stroke="url(#goldLine)" stroke-opacity=".45" stroke-width="3"/>
+ <path d="M230 220H865" stroke="#ffe7ad" stroke-opacity=".09" stroke-width="1"/>
+ <text x="243" y="183" fill="#dfc18a" font-size="15" font-weight="700" font-family="Arial,sans-serif" letter-spacing="4">STRATEGIC CAMPAIGN FILE</text>
+ <circle cx="834" cy="178" r="16" fill="none" stroke="#d6ae6f" stroke-opacity=".65" stroke-width="1.5"/>
+ <path d="m828 178 4 4 9-10" fill="none" stroke="#eac47d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M244 805H840" stroke="#d6b57e" stroke-opacity=".14"/>
+ <text x="256" y="836" fill="#bfa16e" font-size="11" letter-spacing="5" font-family="Arial,sans-serif">INFLUENCER PLATFORM</text>
+ <text x="838" y="836" text-anchor="end" fill="#bfa16e" font-size="11" letter-spacing="3" font-family="Arial,sans-serif">VIP / 2026</text>
+</g>
+
+<!-- edge folded dossier leaves -->
+<g transform="rotate(-6 526 489)">
+ <rect x="272" y="241" width="568" height="510" rx="16" fill="#b5a78c" opacity=".07" transform="translate(18 25)"/>
+ <rect x="272" y="241" width="568" height="510" rx="15" fill="#282725" stroke="#e7c78c" stroke-opacity=".28" stroke-width="2"/>
+ <rect x="294" y="261" width="524" height="469" rx="11" fill="url(#paper)" stroke="#f1c97d" stroke-opacity=".12"/>
+ <path d="M316 316H796" stroke="#c9a46b" stroke-opacity=".28"/>
+ <text x="317" y="297" font-size="15" font-family="Arial,sans-serif" fill="#c6ad7c" letter-spacing="5">EXECUTIVE BRIEF</text>
+ <text x="318" y="395" font-size="90" font-weight="700" font-family="Arial,sans-serif" fill="url(#gold)" letter-spacing="-2">RFP</text>
+ <path d="M320 414H608" stroke="url(#goldLine)" stroke-width="2"/>
+ <rect x="318" y="446" width="385" height="10" rx="5" fill="#bdab89" opacity=".27"/>
+ <rect x="318" y="471" width="335" height="8" rx="4" fill="#bdab89" opacity=".19"/>
+ <rect x="318" y="496" width="368" height="8" rx="4" fill="#bdab89" opacity=".16"/>
+ <rect x="318" y="536" width="208" height="74" rx="7" fill="#181b1e" stroke="#b8914d" stroke-opacity=".3"/>
+ <rect x="543" y="536" width="208" height="74" rx="7" fill="#181b1e" stroke="#b8914d" stroke-opacity=".3"/>
+ <path d="M339 590v-35M361 590v-22M383 590v-31M405 590v-16M427 590v-29M449 590v-24" fill="none" stroke="#bd9356" stroke-width="12" stroke-opacity=".69" stroke-linecap="round"/>
+ <circle cx="586" cy="574" r="18" fill="none" stroke="#a38857" stroke-width="10"/>
+ <path d="M586 556 A18 18 0 0 1 601 584" stroke="#edc986" stroke-width="10" fill="none"/>
+ <path d="M633 562H719 M633 580H693" stroke="#bca579" stroke-opacity=".42" stroke-width="5" stroke-linecap="round"/>
+ <rect x="318" y="647" width="431" height="3" rx="1.5" fill="#b09b74" opacity=".4"/>
+ <rect x="318" y="670" width="360" height="3" rx="1.5" fill="#b09b74" opacity=".25"/>
+</g>
+
+<!-- offer card left: editorial black glass -->
+<g transform="translate(64 453) rotate(-15 195 168)" filter="url(#drop)">
+ <rect x="0" y="0" width="365" height="341" rx="21" fill="url(#card)" stroke="#96794e" stroke-width="2"/>
+ <rect x="13" y="13" width="339" height="315" rx="14" fill="none" stroke="#e1c187" stroke-opacity=".24"/>
+ <text x="27" y="56" fill="#ecd29e" font-size="14" font-family="Arial,sans-serif" letter-spacing="3" font-weight="700">PROPOSAL 01</text>
+ <path d="M28 75H337" stroke="#9a7d4c" stroke-opacity=".45"/>
+ <text x="28" y="113" fill="#ddd3c3" font-size="12" font-family="Arial,sans-serif" letter-spacing="1">SCOPE &amp; COST</text>
+ <rect x="29" y="137" width="210" height="7" rx="3.5" fill="#ac9670" opacity=".45"/>
+ <rect x="29" y="155" width="160" height="7" rx="3.5" fill="#ac9670" opacity=".24"/>
+ <rect x="29" y="198" width="310" height="1" fill="#d6b37d" opacity=".25"/>
+ <rect x="29" y="217" width="80" height="64" rx="4" fill="#a6834c" opacity=".36"/>
+ <rect x="119" y="234" width="34" height="47" rx="4" fill="#a6834c" opacity=".57"/>
+ <rect x="165" y="219" width="42" height="62" rx="4" fill="#a6834c" opacity=".8"/>
+ <rect x="219" y="250" width="35" height="31" rx="4" fill="#a6834c" opacity=".48"/>
+ <rect x="266" y="206" width="40" height="75" rx="4" fill="url(#gold)"/>
+ <text x="28" y="313" fill="#a5977f" font-size="10" font-family="Arial,sans-serif" letter-spacing="2">COST REVIEW / A</text>
+</g>
+
+<!-- offset sample contract card right -->
+<g transform="translate(718 367) rotate(13 146 188)" filter="url(#drop)">
+ <rect width="300" height="379" rx="20" fill="url(#card)" stroke="#a99067" stroke-width="1.7"/>
+ <rect x="12" y="12" width="276" height="355" rx="13" fill="none" stroke="#e9d39d" stroke-opacity=".2"/>
+ <text x="26" y="51" fill="#e6c58c" font-size="13" font-family="Arial,sans-serif" letter-spacing="2.7">PROPOSAL 02</text>
+ <path d="M25 72H272" stroke="#a88954" stroke-opacity=".44"/>
+ <path d="M37 111h17v17H37z M37 163h17v17H37z M37 215h17v17H37z" stroke="#d3b27b" fill="none" stroke-width="2"/>
+ <path d="m40 119 5 5 12-15 M40 171l5 5 12-15 M40 223l5 5 12-15" stroke="#edce91" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+ <rect x="72" y="116" width="175" height="7" rx="3.5" fill="#cfbd9c" opacity=".49"/>
+ <rect x="72" y="137" width="127" height="6" rx="3" fill="#cfbd9c" opacity=".22"/>
+ <rect x="72" y="169" width="163" height="7" rx="3.5" fill="#cfbd9c" opacity=".44"/>
+ <rect x="72" y="190" width="141" height="6" rx="3" fill="#cfbd9c" opacity=".2"/>
+ <rect x="72" y="221" width="193" height="7" rx="3.5" fill="#cfbd9c" opacity=".44"/>
+ <rect x="72" y="242" width="104" height="6" rx="3" fill="#cfbd9c" opacity=".23"/>
+ <rect x="34" y="286" width="231" height="52" rx="7" fill="#caa365" opacity=".1" stroke="#d4b27a" stroke-opacity=".4"/>
+ <text x="49" y="320" fill="#eed29b" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">RIGHTS REVIEWED</text>
+</g>
+
+<!-- premium brass seal, rotated -->
+<g transform="translate(642 122) rotate(17 88 88)">
+ <circle cx="88" cy="88" r="92" fill="#000" opacity=".4" filter="url(#glow)"/>
+ <circle cx="88" cy="88" r="82" fill="url(#gold)"/>
+ <circle cx="88" cy="88" r="74" fill="none" stroke="#fff1bc" stroke-width="1.5" opacity=".73"/>
+ <circle cx="88" cy="88" r="65" fill="#493823" stroke="#d3a661" stroke-width="1.5"/>
+ <circle cx="88" cy="88" r="57" fill="#1c1b1b" stroke="#a6824b" stroke-width="2"/>
+ <path d="M66 91l15 16 29-34" stroke="url(#gold)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <text x="88" y="132" text-anchor="middle" fill="#ddb879" font-family="Arial,sans-serif" font-weight="700" font-size="11" letter-spacing="2">REVIEWED</text>
+</g>
+
+<!-- luxury pen on lower edge -->
+<g transform="translate(383 799) rotate(-24 287 30)" filter="url(#drop)">
+ <rect x="85" y="6" width="480" height="46" rx="17" fill="url(#pen)" stroke="#f2d18f" stroke-width="2"/>
+ <path d="M102 7H128V52H102Z" fill="#241f1b" stroke="#c49e67" stroke-width="1"/>
+ <rect x="139" y="10" width="5" height="39" fill="#fff0ba" opacity=".55"/>
+ <rect x="503" y="8" width="32" height="42" fill="#2a261f" stroke="#c19756" stroke-width="2"/>
+ <rect x="527" y="8" width="14" height="42" fill="#d2a969"/>
+ <path d="M85 10l-77 19 77 20z" fill="#c3a06d" stroke="#f6dc9a" stroke-width="1.6"/>
+ <path d="M8 29h71" stroke="#463823" stroke-width="1.2"/>
+ <path d="M8 29l20-5v10z" fill="#34291b"/>
+ <path d="M563 13h33c17 0 18 27 0 33h-33" fill="none" stroke="#e7c380" stroke-width="7" stroke-linecap="round"/>
+ <path d="M560 21h32" stroke="#d9b572" stroke-width="2"/>
+</g>
+
+<!-- premium micro accents -->
+<g stroke="url(#goldLine)" stroke-width="2" fill="none" opacity=".77">
+ <path d="M58 294h46M81 271v46"/>
+ <path d="M946 851h47M969 828v47"/>
+ <circle cx="104" cy="183" r="14"/>
+ <circle cx="980" cy="269" r="9"/>
+</g>
+<circle cx="104" cy="183" r="3" fill="#f5d591"/>
+<circle cx="979" cy="269" r="2" fill="#f5d591"/>
+<path d="M74 925H377" stroke="#e5bc72" stroke-opacity=".35"/>
+<text x="75" y="951" font-family="Arial,sans-serif" font-size="10" letter-spacing="3" fill="#b99d68">INFLUENCER / PROCUREMENT / 01</text>
+</svg>
